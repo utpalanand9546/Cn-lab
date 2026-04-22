@@ -1,1 +1,5 @@
-
+Metric,Low Traffic (Baseline),High Traffic (Load)
+Communication,Smooth and consistent ,Increased delay 
+Switch Behavior,Instant forwarding ,Packet queuing observed 
+Packet Loss,None (0% drop) ,Drops are possible 
+Response Time,Fast ,Slower 
